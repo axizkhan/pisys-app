@@ -59,3 +59,26 @@ expo eject
 
 To build APK or AAB or IPA, please follow [EXPO documentation](https://docs.expo.dev/classic/building-standalone-apps/) for the ease of build and some tips in deploying the application in the app store and google play.
 pysis/README.md at master · EdocEdoc/pysis
+
+
+## How to Contribute
+
+
+We welcome contributions to **PISYS**! If you would like to contribute, please follow these steps:
+
+**1.  Fork the repository.**
+    
+**2.  Create a new branch:**
+    
+    git checkout -b Feature/YourFeature
+    
+**3.  Make your changes and commit them:**
+    
+    git commit -m "Add your message here"
+    
+**4.  Push to the branch:**
+    
+    git push origin Feature/YourFeature
+    
+**5.  Open a pull request.**
+    
